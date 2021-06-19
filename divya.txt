@@ -1,6 +1,5 @@
 Ganesh{
   public {
-  cho "dfdf"
-  ganeshdfdfdfdfdf
+  
    }
 }
